@@ -1,0 +1,555 @@
+html {
+    scroll-behavior: smooth;
+}
+.bg-img {
+    background-image: url("../img/kratosracing/tkr_img12.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+@font-face{
+    font-family: batmanfont;
+    src:url("../fonts/batmfa__.ttf");
+  }
+
+
+  @font-face{
+    font-family: titi;
+    src:url("../fonts/TitilliumWeb-Light.ttf");
+  }
+
+
+
+
+/*---------------------------------------
+    HOME Page             
+-----------------------------------------*/
+
+.hero {
+    position: relative;
+    padding: 5em 0;
+}
+
+.hero-bg {
+    background: linear-gradient(170deg, rgb(5, 5, 169) 62%, white 30%);
+}
+
+#heading {
+    font-size: 45px;
+    font-family: batmanfont;
+    color: black;
+}
+
+.hero-image {
+    position: relative;
+    top: 2em;
+}
+
+#btn {
+    background-color: white;
+    color: #0c8195;
+    border-radius: 100px;
+    padding: 0.7em 1.8em 0.7em 1.8em;
+    font-size: 18px;
+    font-family: batmanfont;
+}
+
+#btn:hover {
+    background-color: black;
+    color: white;
+    transition: 0.8s ease-in-out;
+}
+
+#phoneNumber {
+    font-family: batmanfont;
+    font-weight: lighter;
+    margin-left: 40px;
+}
+
+#slogan {
+    color: white;
+    font-family: batmanfont;
+}
+
+.fa-phone {
+    margin-right: 8px;
+}
+
+
+/*---------------------------------------
+    ABOUT Page             
+-----------------------------------------*/
+#about {
+    background-color: white;
+}
+
+#about-head {
+    font-size: 35px;
+}
+
+.about-info {
+    font-size: 18px;
+    margin-top: 30px;
+    font-family: titi;
+}
+
+.clear {
+    height: 70vh;
+}
+
+/*---------------------------------------
+    PROJECT Page             
+-----------------------------------------*/
+
+#project {
+    background-color: #f0f8ff;
+    padding: 30px;
+    padding-bottom: 50px;
+}
+
+.project-wrapper {
+    position: relative;
+}
+
+.project-info {
+    background: white;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 32px;
+    right: 32px;
+    left: 32px;
+    width: 90%;
+    padding: 15px;
+}
+
+.project-info small {
+    font-family: batmanfont;
+    color: #909090;
+    position: relative;
+    top: 2px;
+}
+
+.project-info a {
+    color: #057a8d;
+    text-decoration: none;
+    font-family: batmanfont;
+}
+
+.project-info .project-icon {
+    background: #057a8d;
+}
+
+.project-icon {
+    position: absolute;
+    right: 30px;
+    top: 40px;
+    background: #171819;
+    border-radius: 100px;
+    color: white;
+    font-size: 32px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    padding-left: 5px;
+}
+
+.owl-theme .owl-dots .owl-dot {
+    outline: none;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    background: #909090;
+    width: 30px;
+    height: 3px;
+    margin: 35px 5px;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: rgb(5, 5, 169);
+}
+
+.list-detail {
+    margin-left: 1em;
+    padding-left: 1em;
+    position: relative;
+}
+
+.list-detail li {
+    display: block;
+    list-style: none;
+    margin: 0.6em 0 0 0.8em;
+}
+
+.list-detail li::before {
+    content: "";
+    width: 0;
+    height: 0;
+    border-width: 0 16px 16px 0;
+    border-color: transparent #f1c111 transparent transparent;
+    border-style: solid;
+    position: absolute;
+    left: 0;
+}
+
+.list-detail span {
+    position: relative;
+    bottom: 5px;
+}
+
+.client-info img {
+    width: 100px;
+    margin-right: 1em;
+}
+/* Timeline */
+
+.main-timeline{ font-family: 'Poppins', sans-serif; }
+.main-timeline:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.main-timeline .timeline{
+    width: calc(50% + 58px);
+    border-top: 2px solid #404247;
+    float: left;
+    position: relative;
+    z-index: 1;
+}
+.main-timeline .timeline:before{
+    content: "";
+    background: #404247;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    position: absolute;
+    top: -5px;
+    right: 0;
+}
+.main-timeline .timeline-content{
+    color: #404247;
+    text-align: center;
+    padding: 15px 80px 15px 10px;
+    display: block;
+    position: relative;
+    text-decoration: none;
+
+}
+.main-timeline .timeline-content:hover{ text-decoration: none; }
+.main-timeline .timeline-content:before{
+    content: "";
+    background: rgb(5, 5, 169);
+    width: 15px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 50px;
+}
+.main-timeline .timeline-year{
+    font-size: 35px;
+    line-height: 35px;
+    font-weight: 700;
+    transform: translateY(-50%) rotate(90deg);
+    position: absolute;
+    top: 50%;
+    right: -15px;
+}
+.main-timeline .title{
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin: 0 0 8px;
+}
+.main-timeline .description{
+    font-size: 16px;
+    margin: 0;
+}
+.main-timeline .timeline:nth-child(even){ float: right; }
+.main-timeline .timeline:nth-child(even):before{
+    right: auto;
+    left: 0;
+}
+.main-timeline .timeline:nth-child(even) .timeline-content{
+    padding: 15px 10px 15px 80px;
+}
+.main-timeline .timeline:nth-child(even) .timeline-content:before{
+    right: auto;
+    left: 51px;
+}
+.main-timeline .timeline:nth-child(even) .timeline-year{
+    right: auto;
+    left: -15px;
+}
+.main-timeline .timeline:nth-child(4n+2) .timeline-content:before{ background: rgb(5, 5, 169); }
+.main-timeline .timeline:nth-child(4n+3) .timeline-content:before{ background: rgb(5, 5, 169); }
+.main-timeline .timeline:nth-child(4n+4) .timeline-content:before{ background: rgb(5, 5, 169); }
+@media screen and (max-width:767px){
+    .main-timeline .timeline{ width: 100%; }
+}
+
+
+/*---------------------------------------
+    TESTIMONIAL             
+-----------------------------------------*/
+
+.testimonial {
+    background-color: white;
+    background: linear-gradient(170deg, white 62%, rgb(5, 5, 169) 30%);
+}
+
+#row {
+    padding: 40px;
+}
+.contact-image {
+    margin-top: 75px;
+    margin-right: 40px;
+}
+.contact-image img {
+    border-radius: 50%;
+}
+#faculty {
+    font-size: 12px;
+}
+.cap {
+    background-color: white;
+}
+.card {
+    background: none;
+}
+
+#manashood {
+    margin-left: 135px;
+}
+
+
+/*---------------------------------------
+    FOOTER             
+-----------------------------------------*/
+
+.site-footer {
+    background: #171819;
+    padding: 7em 0 6em 0;
+}
+
+.site-footer a {
+    color: #666262;
+}
+
+.site-footer a:hover,
+.footer-icon {
+    color: #f1c111;
+}
+
+.footer-link li {
+    display: inline-block !important;
+    list-style: none;
+    margin: 0 10px;
+}
+
+.copyright-text,
+.footer-link,
+.site-footer {
+    margin-top: 6em;
+}
+
+.copyright-text {
+    margin-top: 5.3em;
+}
+
+.social-icon {
+    padding: 0;
+    
+}
+
+.social-icon li {
+    display: inline-block;
+    list-style: none;
+}
+
+.social-icon li i {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+    text-align: center;
+    color: black;
+}
+.social-icon li i:hover {
+    color: white;
+}
+
+#contactinfo {
+    color: #666262;
+}
+
+
+/*---------------------------------------
+    CLIENT
+-----------------------------------------*/
+
+.aside {
+    margin-top: 50px;
+}
+
+.card {
+    width: 90%;
+    padding: 20px;
+    margin-top: 15px;
+    border: none;
+}
+
+#clienthead {
+    font-family: batmanfont;
+    font-weight: 300;
+    font-size: 32px;
+}
+
+.card-title {
+    font-size: 22px;
+}
+
+
+/*---------------------------------------
+    CONTACT
+-----------------------------------------*/
+
+#contact-section {
+    padding: 50px;
+    margin-bottom: 50px;
+}
+
+.mail {
+    color: #171819;
+    text-decoration: none;
+    font-family: batmanfont;
+}
+
+.mail:hover {
+    color: #f1c111;
+}
+
+.contact-detailed {
+    font-size: 18px;
+    font-weight: 50;
+    font-family: batmanfont;
+    opacity: 0.7;
+}
+
+.inputbar {
+    padding: 18px;
+}
+
+.inputbar input {
+    border: none !important;
+    background-color: #f0f8ff;
+    padding: 15px;
+}
+
+.inputbar textarea {
+    border: none;
+    background-color: #f0f8ff;
+    padding: 15px;
+}
+
+.inputbar button {
+    border-radius: 100px;
+    background-color: #057a8d !important;
+    color: white;
+    padding: 10px 0;
+    font-size: 20px;
+}
+
+.input:focus {
+    outline: none !important;
+}
+
+
+/*---------------------------------------
+    RESPONSIVE
+-----------------------------------------*/
+
+@media (max-width: 700px) {
+    .contact {
+        width: fit-content;
+        margin: 5px auto;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .about-info h2 {
+        max-width: 70%;
+    }
+}
+
+@media screen and (min-width: 991px) {
+    .project h2 {
+        max-width: 32%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .hero {
+        padding-top: 14em;
+    }
+    .hero-text {
+        bottom: 2em;
+    }
+    .copyright-text,
+    .footer-link,
+    .site-footer .social-icon {
+        margin-top: 3em;
+        padding: 0;
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .clear {
+        height: 50vh;
+    }
+    .contact-image {
+        margin-left: 30px;
+    }
+
+    #manashood {
+        margin-left: 40px;
+    }
+    
+    #row {
+        padding: unset;
+    }
+    #testimonial {
+        width: unset !important;
+    }
+    .footer-link,
+    .site-footer .social-icon {
+        margin-top: 0.6em;
+    }
+    .copyright-text {
+        margin: 2.5em 0 1em 0;
+    }
+    .footer-link li {
+        margin-left: 0;
+    }
+    .card {
+        padding: unset;
+    }
+    .about-info {
+        margin-top: unset !important;
+    }
+    #contact-section {
+        padding: unset;
+        margin-bottom: unset;
+    }
+    .aside {
+        width: unset !important;
+    }
+    .privacy {
+        width: unset !important;
+    }
+}
