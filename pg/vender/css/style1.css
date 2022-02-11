@@ -1,0 +1,648 @@
+.extern-btn{
+    padding: 5px 0px 10px 0px;
+}
+.extern-btn a{
+   background-color:rgb(38,186,222);
+   color: black;
+   font-weight: 500;
+   padding:5px;
+   border-radius: 5px;
+   margin-bottom: 100px !important;
+}
+
+.extern-btn a:hover{
+    background-color: rgb(9, 149, 184);
+    color: rgb(247, 247, 247);
+}
+header {
+    padding-top: 10px;
+}
+.text-justify{
+    text-align: justify;
+}
+.clg-name {
+    color: red;
+}
+.label-undergraduate span{
+    padding:5px 10px;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    font-size: 14px;
+    font-weight: 500;
+    color: #727272;
+}
+.marquee-section {
+    padding: 0px !important;
+    position: relative;
+    height: 37px;
+}
+
+.marquee-section .static-head {
+    /* box-shadow: inset 0 3em 3em rgba(255, 255, 255, 0.1), 0 0 0 2px rgb(255, 173, 79), 0.3em 0.3em 1em rgba(0, 0, 0, 0.3); */
+    position: absolute;
+    background-color: #0f70e7 !important;
+    padding: 1px 5px;
+    color: #fff;
+    font-weight: 500;
+    margin-top: 5px;
+    border-radius: 0px 100px 100px 0px;
+    z-index: 100;
+}
+
+.marquee-section {
+    background-color: #266abd13;
+    margin-top: 44px;
+    background-size: 400% 400%;
+    color: black;
+}
+
+.marquee-section .marquee-text {
+    font-weight: 500;
+    margin-top: 10px;
+    /* margin-right: 100px; */
+}
+
+.carousel-caption .title {
+    background-color: rgba(0, 0, 0, 0.224) !important;
+    color: #fff !important;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 20px;
+    padding: 1px 20px;
+}
+/* footer section */
+
+.footer{
+    margin-top: 150px !important;
+    background-color: #266abd;
+    position: relative;
+    width: 100%;
+    bottom: 0px;
+    border-bottom:solid 2px #ffab1f;
+    border-top:solid 2px #ffab1f;
+}
+.footer a{
+    text-decoration: none !important;
+    color: #fff;
+}
+.footer .card-section{
+    padding-top: 15px;
+    color: rgb(245, 245, 245);
+    border-bottom: solid 2px #fff;
+}
+.footer .card-section .item{
+    padding:0px 40px;
+    margin-bottom: 20px;
+}
+.footer .card-section h5{
+    text-align: center;
+    padding: 10px;
+    border-bottom: dashed 1px #fff;
+}
+.footer .card-section .importent-link a{
+    display: block;
+    padding-left: 10px;
+}
+.footer .card-section .quick-link a{
+    display: block;
+    padding-left: 10px;
+}
+.footer .footer-bottom{
+    color: #fff;
+    text-align: center;
+}
+
+/* End footer */
+
+/* Qick links*/
+.section{
+    border-radius: 5px;
+}
+.section .section-head{
+    /* background-color: #266abd; */
+    color: #266abd;
+    font-weight: 700;
+    padding: 10px 0px;
+    border-bottom: solid 1px #266abd;
+}
+.section .section-list{
+    list-style: none;
+    padding: 0px 5px;
+}
+.section .section-list a{
+    text-decoration: none;
+}
+.section .section-list li {
+    padding-left: 1.3em;
+    font-weight: 600;
+    color: black;
+    border-bottom: solid 1px #266abd23;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.section .section-list li:hover{
+    background-color: #0073ff11;
+}
+/* END Quik Links*/
+
+.color-blue{
+    color: #266abd;
+}
+.bg-blue{
+    background-color:  #266abd;
+    color: #fff;
+}
+/* news */
+.content-section .section-list {
+    color: white;
+    list-style: none;
+    padding: 10px;
+}
+.content-section .section-list a {
+    text-decoration: none;
+}
+
+.content-section .section-list li {
+    font-weight: bold;
+    padding: 5px;
+    color: black;
+    border-bottom: solid 1px #266abd23;
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.content-section .read-more a{
+    text-decoration: none;
+    color: #266abd;
+    background-color: #266abd23;
+    font-size: 12px;
+    border-radius: 5px 0 0 0;
+    font-weight: 700;
+    padding:3px
+}
+.content-section .read-more a:hover{
+    background-color: white;
+    color: #266abd;
+}
+.content-section .read-more{
+    padding:0px;
+    margin: 0px;
+    text-align: right;
+}
+
+.content-section .section-list li:hover {
+    background-color: #0073ff11;
+}
+
+.about-section .title{
+    font-size: 20px;
+    font-weight: 700;
+}
+.about-section .title{
+    padding: 5px 0px;
+    color: #266abd;
+    border-bottom: solid 1px #266abd;
+}
+.about-section .text-data{
+    text-align: justify !important;
+}
+
+.news-section .tab-section{
+    border-radius: 5px;
+    /* border: solid 1px #49688e; */
+}
+.news-section .tab-section .nav-link{
+   color: #266abd !important;
+   border: solid 1px #0073ff33;
+}
+ .news-section .nav-tabs .nav-link.active,
+ .nav-tabs .nav-item.show .nav-link {
+   color: #fff !important;
+   background-color: #266abd;
+ }
+ .news-section .content-section{
+    /* border: solid 1px #266abd; */
+    border-top: none !important;
+ }
+ /* .news-section .content-section .section-list ul{
+    color: black !important;
+    background-color: red;
+ } */
+
+
+.branch-section{
+   margin-top: 15px;
+ }
+.branch-section .head{
+    border-bottom: solid 1px #266abd;
+    padding-bottom: 5px;
+}
+.branch-section .post{
+    font-size: 14px;
+    /* border-bottom: solid 2px #266abd; */
+}
+.branch-section .branch{
+    font-size: 14px;
+    padding: 5px;
+}
+.branch-section img{
+    height: 50px;
+    width: 50px;
+}
+.branch-section .item{
+    padding: 20px 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 90%;
+    /* border-bottom: solid 2px #ffab1f; */
+}
+.branch-section .branch:hover {
+    border-bottom: solid 2px #266abd;
+}
+
+.social {
+    text-decoration: none;
+    text-align: center;
+}
+
+
+
+/* HOD Desk*/
+.hod-desk .title{
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 1px #266abd;
+}
+.hod-desk .text-data{
+    text-align: justify;
+    padding: 3px;
+}
+.hod-desk .label-area span{
+    font-weight:500;
+    font-size: 14px;
+    color: black;
+}
+
+.vision-mision .title{
+    padding:10px 10px 0px 0px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+.vision-mision .text-data{
+    text-align: justify;
+}
+
+.vision-mision .content-panel{
+    padding-top: 20px;
+}
+.vision-mision .content-panel ul li{
+    text-align: justify;
+}
+
+
+.result .title{
+    padding:10px 10px 0px 10px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+.result .text-data{
+    text-align: justify;
+    padding: 3px;
+}
+
+.result .content-panel{
+    padding-top: 20px;
+}
+.result .content-panel .head{
+    color: #266abd;
+    font-weight: 500;
+    padding:5px 30px 5px 0px;
+    border-bottom: solid 1px #266abd;
+    /* border-radius: 100px; */
+}
+.result .academic-result table th{
+    background-color: #7ca2d12c;
+}
+
+.bos-section .title{
+    padding:40px 10px 0px 10px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+.bos-section .text-data{
+    text-align: justify;
+    padding-top: 10px;
+    font-size: 13px;
+}
+.bos-section .section-2 h5{
+    border-bottom: solid 2px #266abd;
+    padding: 5px 0px;
+    color: #266abd;
+}
+.bos-section .section-2 a{
+    font-size: 14px;
+}
+.download .title{
+    padding:10px 10px 0px 10px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+
+
+.download ul{
+   color: #266abd;
+}
+.download ul li{
+    margin: 10px;
+}
+.download a{
+    text-decoration: none;
+    padding: 10px;  
+}
+.download ul li:hover{
+    color: #042957;
+}
+
+.syllabus .title{
+    padding:10px 10px 0px 0px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+
+
+.syllabus ul{
+   color: #266abd;
+}
+.syllabus ul li{
+    margin: 10px;
+}
+.syllabus a{
+    text-decoration: none;
+    padding: 10px;  
+}
+.syllabus ul li:hover{
+    color: #042957;
+}
+
+.time-table .title{
+    padding:10px 10px 0px 0px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+.time-table ul{
+   color: #266abd;
+}
+.time-table ul li{
+    margin: 10px;
+}
+.time-table a{
+    text-decoration: none;
+    padding: 10px;  
+}
+.time-table ul li:hover{
+    color: #042957;
+}
+
+
+.examination .title{
+    padding:10px 10px 0px 0px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+.examination ul{
+   color: #266abd;
+}
+.examination ul li{
+    margin: 10px;
+}
+.examination a{
+    text-decoration: none;
+    padding: 10px;  
+}
+.examination ul li:hover{
+    color: #042957;
+}
+
+
+
+.department-boucher .title{
+    padding:10px 10px 0px 0px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+.department-boucher ul{
+   color: #266abd;
+}
+.department-boucher ul li{
+    margin: 10px;
+}
+.department-boucher a{
+    text-decoration: none;
+    padding: 10px;  
+}
+.department-boucher ul li:hover{
+    color: #042957;
+}
+.news-page-section .title{
+    padding:10px 10px 0px 10px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+
+.news-page-section ul{
+   color: #266abd;
+}
+.news-page-section ul li{
+    margin: 10px;
+}
+.news-page-section a{
+    text-decoration: none;
+    padding: 10px;  
+}
+.news-page-section ul li:hover{
+    color: #042853;
+}
+
+.student-alumni{
+    background-color: rgba(245, 244, 244, 0.644);
+    margin-top: 30px;
+    border-radius: 10px;
+    padding-bottom: 100px !important;
+}
+.student-alumni .title{
+    padding:10px 10px 0px 10px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+.student-alumni .content-panel{
+    padding-top: 20px;   
+}
+.student-alumni .content-panel .item{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.student-alumni .content-panel .item img{
+    border-radius: 100px;
+    margin: 5px;
+}
+.student-alumni .content-panel .item .description{
+    color: rgb(144, 144, 144);
+    font-size: 13px;
+    font-weight: 500;
+    font-style: italic;
+    padding: 0px;
+    margin: 0px;
+}
+.student-alumni .content-panel .item .batch{
+    padding: 0px;
+    margin: 0px;
+    text-align: right;
+    font-size: 13px;
+    font-style: italic;
+    color: rgb(144, 144, 144);
+}
+
+
+
+
+.university-rank{
+    background-color: rgba(245, 244, 244, 0.644);
+    margin-top: 30px;
+    border-radius: 5px;
+    padding-bottom: 100px !important;
+}
+.university-rank .title{
+    padding:10px 10px 0px 10px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+.university-rank .content-panel{
+    padding-top: 20px;   
+}
+.university-rank .content-panel .head1{
+    color:#266abd;
+}
+.university-rank .content-panel .head1 span{
+    padding-bottom: 5px;
+    border-bottom: solid 1px #266abd;
+}
+.university-rank .content-panel .item{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.university-rank .content-panel .item img{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+}
+.university-rank .content-panel .item .description{
+    color: rgb(144, 144, 144);
+    font-size: 13px;
+    font-weight: 500;
+    font-style: italic;
+    padding: 0px;
+    margin: 0px;
+}
+.university-rank .content-panel .item .batch{
+    padding: 0px;
+    margin: 0px;
+    text-align: right;
+    font-size: 13px;
+    font-style: italic;
+    color: rgb(144, 144, 144);
+}
+
+.admission{
+    /* background-color: rgba(245, 244, 244, 0.644); */
+    margin-top: 30px;
+    border-radius: 10px;
+    padding-bottom: 100px !important;
+}
+.admission .title{
+    padding:10px 10px 0px 10px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 500;
+    color: #266abd;
+    border-bottom: solid 2px #266abd;
+}
+.admission .about{
+    padding-top: 20px;   
+}
+.admission .about .text-h{
+    margin-left: 10px;
+}
+.eligibility-criteria .head{
+    color: #266abd;
+    padding-bottom: 5px;
+    border-bottom: solid 0.5px;
+}
+.eligibility-criteria li{
+    text-align: justify;
+    font-size: 14px;
+    line-height: 25px;
+    margin: 5px 0px;
+}
+.eligibility-criteria .outer-list{
+    font-weight: 700;
+}
+.eligibility-criteria ol ol{
+    list-style-type: lower-alpha;
+    font-weight: normal;
+    font-weight: 500;
+}
+.my-table td{
+text-align: justify;
+font-size: 14px;
+}
+.my-list li{
+font-size: 14px;
+padding: 2px;
+text-align: justify;
+}
