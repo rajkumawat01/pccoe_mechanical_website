@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Sep-2021, 7:01:54 pm
+    Author     : VENU SONAVANE
+*/
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float:right;
+  width: 33%;
+  
+ 
+}
+.column2{
+    display: block;
+    float:left;
+    width: 30%;
+    padding: 10px;
+    
+}
+img {
+  
+  padding: 3px;
+  width: 150px;
+}
+.polaroid {
+  width: 75%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 5px;
+ 
+}
+.container {
+  text-align: left;
+  padding: 10px 20px;
+  font-family: sans-serif;
+  width: 95%;
+  font-size: 15px;
+  font-weight:bold;
+}
+h1{
+    text-align: center;
+   
+}
+h3{
+    text-align: center;
+    
+    
+}
+
+.image-container{
+    text-align: center;
+}
+a:hover {
+  background-color: black;
+  color: blue;
+  font-weight: bold;
+}
+
+.new{
+    border-top: 4px solid lightskyblue;
+    align: center;
+    width: 40% ;
+}
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
