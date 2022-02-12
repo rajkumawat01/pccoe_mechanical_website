@@ -109,7 +109,7 @@
 .b-right {
     border-right: solid 1px #fff !important;
 } */
-@media only screen and (max-width: 1250px) {
+@media only screen and (max-width: 1325px) {
     #menu .main-menu {
         padding-left: 50px !important;
     }
@@ -129,7 +129,7 @@
         padding-left: 0px !important;
     }
 }
-@media only screen and (min-width: 1250px) {
+@media only screen and (min-width: 1325px) {
     #menu .main-menu {
         display: block;
         padding:0px;
