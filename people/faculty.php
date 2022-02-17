@@ -401,11 +401,11 @@
                             <div>
                                 <dl class="row"> <dt class="col-sm-3 col-4">Designation</dt>
                                     <dd class="col-sm-9 col-8"> Assistant Professor and Associate Dean Academics</dd> <dt class="col-sm-3 col-4">Qualification</dt>
-                                    <dd class="col-sm-9 col-8">PhD, M. Tech. (Industrial safety Engg.) - Gold Medalist, B.E. (Mechanical Engineering) </dd> <dt class="col-sm-3 col-4">Experience</dt>
-                                    <dd class="col-sm-9 col-8"> 21+ Years</dd> <dt class="col-sm-3 col-4">Area of interest</dt>
+                                    <dd class="col-sm-9 col-8">PhD (Mechanical Engineering), M. Tech. (Mechanical Engg. - Industrial safety Engg.) - Gold Medalist, B.E. (Mechanical Engineering) </dd> <dt class="col-sm-3 col-4">Experience</dt>
+                                    <dd class="col-sm-9 col-8"> 22+ Years</dd> <dt class="col-sm-3 col-4">Area of interest</dt>
                                     <dd class="col-sm-9 col-8">
-                                        <p> Safety Engineering, Mechatronics and Mechanical Vibrations</p>
-                                    </dd> <span class="align-self-center text-muted"> Email&nbsp;:&nbsp;<a href="mailto: n.vivekanandan@pccoepune.org " >n.vivekanandan@pccoepune.org</a> | Contact&nbsp;:&nbsp;<a href="tel: +918408825056 " > 8408825056 </a> <div class="profile mt-1"> <button class="btn btn-primary btn-sm "> <a href=" https://scholar.google.co.in/citations?user=JWiodvQAAAAJ&hl=en " target="_blank ">Google Scholar Profile</a> </button> <button class="btn btn-sm btn-primary "> <a href=" https://www.scopus.com/authid/detail.uri?authorId=57191574778 " target="_blank ">Scopus Profile</a> </button> <button class="btn btn-sm btn-primary "> <a href="https://publons.com/researcher/4539992/vivekanandan-n/publications/" target="_blank ">Publons Profile</a> </button> </div></span>                                    </dl>
+                                        <p> Mechanical System Design, Design for X, Industrial Safety Engineering, Mechatronics, Mechanical Vibrations and Model Based Systems Engineering (MBSE)</p>
+                                    </dd> <span class="align-self-center text-muted"> Email&nbsp;:&nbsp;<a href="mailto: n.vivekanandan@pccoepune.org " >n.vivekanandan@pccoepune.org</a> | Contact&nbsp;:&nbsp;<a href="tel: +918408825056 " > 8408825056 </a> <div class="profile mt-1"> <button class="btn btn-primary btn-sm "> <a href=" https://scholar.google.co.in/citations?user=JWiodvQAAAAJ&hl=en " target="_blank ">Google Scholar Profile</a> </button> <button class="btn btn-sm btn-primary "> <a href=" https://www.scopus.com/authid/detail.uri?authorId=57191574778" target="_blank ">Scopus Profile</a> </button> <button class="btn btn-sm btn-primary "> <a href="https://publons.com/researcher/4539992/vivekanandan-n/" target="_blank ">Publons Profile</a> </button> </div></span>                                    </dl>
                             </div>
                         </div>
                     </div>
