@@ -30,6 +30,8 @@
     <link href="vender/icon/css/brands.css" rel="stylesheet" />
     <link href="vender/icon/css/fontawesome.css" rel="stylesheet" />
     <link href="vender/icon/css/solid.css" rel="stylesheet" />
+    <link href="vender/css/popup.css" rel="stylesheet" />
+    
     <title>Department Of Mechanical Engineering | PCCOE</title>
 
     <style>
@@ -40,6 +42,14 @@
 </head>
 
 <body>
+<!-- PopUP -->
+<div class="popup">
+        <button id="close">&times;</button>
+        <h2><i>i-Mace</i> Second Call For Papers</h2>
+        <a href="https://drive.google.com/file/d/1RnzN7jg8tcsV2rKzcCMREIcW0oeAlD1P/view?usp=sharing" target="_blank"><img src="vender\img\popup\flyer2.jpg" alt=""></a>
+        <a href="https://i-mace.pccoepune.com/" class = "last-button">Conference Website</a>
+</div>
+
     <!-- Start Header -->
     <?php include("pccoe-header.php"); ?>
     <header>
@@ -211,10 +221,9 @@
         <div class="running-text">
             <span class="static-head">SPOTLIGHT</span>
             <marquee scrollamount="4" class="p-1" onmouseover="this.stop();" onmouseout="this.start();">
-                <a class="text-decoration-none text-dark" target="_blank" href="vender/files/notices/i-mace_first.pdf">
+                <a class="text-decoration-none text-dark" target="_blank" href="https://drive.google.com/file/d/1RnzN7jg8tcsV2rKzcCMREIcW0oeAlD1P/view?usp=sharing">
                     <span class="marquee-text">
-                        I-MACE 2022 International conference on innovation in mechanical & civil engineering first
-                        announcement and call for papers.
+                        I-MACE 2022 International conference on innovation in Mechanical & Civil Engineering <b> second call for papers<b>.
                     </span>
                 </a>
             </marquee>
@@ -229,25 +238,43 @@
             <div class="carousel-item active">
                 <img src="vender/img/slider/img-0.jpg" class="d-block w-100" alt="..." />
                 <div class="carousel-caption pb-0">
-                    <span class="title">1/3</span>
+                    <span class="title">1/7</span>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="vender/img/slider/img-3.jpg" class="d-block w-100" alt="..." />
                 <div class="carousel-caption pb-0">
-                    <span class="title">2/4</span>
+                    <span class="title">2/7</span>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="vender/img/slider/img-4.png" class="d-block w-100" alt="..." />
+                <div class="carousel-caption pb-0">
+                    <span class="title">3/7</span>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="vender/img/slider/img-1.jpg" class="d-block w-100" alt="..." />
                 <div class="carousel-caption pb-0">
-                    <span class="title">3/4</span>
+                    <span class="title">4/7</span>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="vender/img/slider/img-2.jpg" class="d-block w-100" alt="..." />
                 <div class="carousel-caption pb-0">
-                    <span class="title">4/4</span>
+                    <span class="title">5/7</span>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="vender/img/slider/i-1.jpg" class="d-block w-100" alt="..." />
+                <div class="carousel-caption pb-0">
+                    <span class="title">6/7</span>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="vender/img/slider/i-2.jpg" class="d-block w-100" alt="..." />
+                <div class="carousel-caption pb-0">
+                    <span class="title">7/7</span>
                 </div>
             </div>
         </div>
@@ -790,6 +817,7 @@
         }, 1000);
     }
     </script>
+    <script src="vender\js\popup.js"></script>
 </body>
 
 </html>
