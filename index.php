@@ -675,8 +675,12 @@
             <div class="col-md-4"></div>
             <div class="col-md-4">
                 <div class="text-white">
-                    <div class="mt-5">
+                    <div class="mt-2">
                         <h5>
+                            <div class="text-center p-2">
+                                <a href='https://bachelorthesiswritingservice.com/'>https://bachelorthesiswritingservice.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=51aaf4f6caf36a05d5ece16f08b99f42f17c2b9c'></script>
+                                <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/924404/t/13"></script>
+                            </div>
                             <p class="text-white text-center">
                                 Follow us
                             </p>
