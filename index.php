@@ -346,6 +346,9 @@
                         <!-- </marquee> -->
                     </ul>
                 </div>
+                <div class="text-center mt-3" id="alumini-feedback">
+                    <a href="#" class="alumini-feedback-btn">Alumini Feedback Form</a>
+                </div>
             </div>
             <div class="col-lg-9">
                 <div class="container-fluid p-3 mt-2 about-section bg-light rounded">

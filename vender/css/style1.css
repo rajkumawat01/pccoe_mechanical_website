@@ -4,6 +4,14 @@ margin-top: 200px;
 .extern-btn{
     visibility: hidden;
 }
+.alumini-feedback-btn{
+    text-decoration: none;
+    background-color: #0f70e72f;
+    border-radius: 100px;
+    color: black;
+    padding: 5px 30px;
+    color: blue;
+}
 /* .extern-btn{
     padding: 5px 0px 10px 0px;
 }
