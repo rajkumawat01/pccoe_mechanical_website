@@ -194,7 +194,12 @@
         </div>
         <div class="row bg-light p-3">
             <ul>
-                <li>To impart quality education, innovation culture, necessary skill sets and social commitment among the students to build professional career by establishing state-of-the-art Mechanical Engineering infrastructure and conducive learning environment.</li>
+                <li>To impart quality education, innovation culture, necessary
+skill sets, social commitment and safety
+practices among the students to build
+professional career by establishing state-of-the-art Mechanical
+Engineering
+infrastructure and conducive learning environment.</li>
             </ul>
         </div>
     </div>
