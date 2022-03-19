@@ -31,6 +31,7 @@
     <link href="vender/icon/css/fontawesome.css" rel="stylesheet" />
     <link href="vender/icon/css/solid.css" rel="stylesheet" />
     <link href="vender/css/popup.css?v=<?php echo time(); ?>" rel="stylesheet" />
+    <link href="vender/css/link.css?v=<?php echo time(); ?>" rel="stylesheet" />
     
     <title>Department Of Mechanical Engineering | PCCOE</title>
 
@@ -225,10 +226,15 @@
     <div class="marquee-section">
         <div class="running-text">
             <span class="static-head">SPOTLIGHT</span>
-            <marquee scrollamount="4" class="p-1" onmouseover="this.stop();" onmouseout="this.start();">
+            <marquee scrollamount="8" class="p-1" onmouseover="this.stop();" onmouseout="this.start();">
                 <a class="text-decoration-none text-dark" target="_blank" href="https://drive.google.com/file/d/1RnzN7jg8tcsV2rKzcCMREIcW0oeAlD1P/view?usp=sharing">
-                    <span class="marquee-text">
+                    <span class="marquee-text mar_link">
                         I-MACE 2022 International conference on innovation in Mechanical & Civil Engineering <b> second call for papers<b>.
+                    </span>
+                </a>
+                <a class="text-decoration-none text-dark" target="_blank" href="http://i-mace.pccoepune.com/">
+                    <span class="marquee-text ms-5 mar_link">
+                        Website for I-MACE 2022 International conference on innovation in Mechanical & Civil Engineering.
                     </span>
                 </a>
             </marquee>
