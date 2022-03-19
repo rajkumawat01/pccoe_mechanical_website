@@ -30,7 +30,7 @@
     <link href="vender/icon/css/brands.css" rel="stylesheet" />
     <link href="vender/icon/css/fontawesome.css" rel="stylesheet" />
     <link href="vender/icon/css/solid.css" rel="stylesheet" />
-    <link href="vender/css/popup.css" rel="stylesheet" />
+    <link href="vender/css/popup.css?v=<?php echo time(); ?>" rel="stylesheet" />
     
     <title>Department Of Mechanical Engineering | PCCOE</title>
 
@@ -41,13 +41,18 @@
     </style>
 </head>
 
-<body>
+<body class="faded" id ="faded">
 <!-- PopUP -->
+<div class="popup_outside_black" id="outsidebg">
 <div class="popup">
-        <button id="close">&times;</button>
-        <h2><i>i-Mace</i> Second Call For Papers</h2>
-        <a href="https://drive.google.com/file/d/1RnzN7jg8tcsV2rKzcCMREIcW0oeAlD1P/view?usp=sharing" target="_blank"><img src="vender\img\popup\flyer2.jpg" alt=""></a>
-        <a href="https://i-mace.pccoepune.com/" class = "last-button">Conference Website</a>
+        <div class="d-flex flex-row-reverse crosspop pe-5">
+        <button id="close" onclick="changeClass()">&times;</button></div>
+        <!-- <h2><i>i-Mace</i> Second Call For Papers</h2> -->
+        <a href="https://drive.google.com/file/d/1RnzN7jg8tcsV2rKzcCMREIcW0oeAlD1P/view?usp=sharing" target="_blank">
+            <img class="img-fluid p-1 bg-light" src="vender\img\popup\flyer2.jpg" alt="">
+        </a>
+        <!-- <a href="https://i-mace.pccoepune.com/" class = "last-button">Conference Website</a> -->
+</div>
 </div>
 
     <!-- Start Header -->
@@ -815,6 +820,11 @@
             }
             timeleft -= 1;
         }, 1000);
+    }
+
+    function changeClass() {
+        document.getElementById('outsidebg').className = "popup_outside_white";
+        document.getElementById('faded').className = "unfaded";
     }
     </script>
     <script src="vender\js\popup.js"></script>

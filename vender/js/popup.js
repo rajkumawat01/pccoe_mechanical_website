@@ -11,3 +11,8 @@ window.addEventListener("load", function() {
 document.querySelector("#close").addEventListener("click", function() {
     document.querySelector(".popup").style.display = "none";
 });
+
+// function changeClass() {
+//     document.getElementById('outsidebg').className = "popup_outside_white";
+//     document.getElementById('faded').className = "";
+// }
