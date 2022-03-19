@@ -1,0 +1,70 @@
+*,
+*:before,
+*:after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.popup {
+    background-color: #dceceb;
+    width: 50%;
+    height: fit-content;
+    padding: 30px 40px;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    border-radius: 8px;
+    /* border: 5px solid #5177a3; */
+    font-family: "Poppins", sans-serif;
+    display: none;
+    text-align: center;
+    z-index: 10000000;
+    backdrop-filter: blur(20px);
+    min-width: 267px;
+    box-shadow: 0 0 240px 0 black;
+}
+
+.popup button {
+    display: block;
+    margin: 0 0 20px auto;
+    background-color: transparent;
+    font-size: 30px;
+    color: #333333;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.popup img {
+    width: 70%;
+    border-radius : 5px;
+}
+
+.popup p {
+    font-size: 14px;
+    text-align: justify;
+    margin: 20px 0;
+    line-height: 25px;
+}
+
+.popup .last-button {
+    display: block;
+    width: fit-content;
+    position: relative;
+    margin: 10px auto;
+    text-align: center;
+    background-color: #0f72e5;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+@media (max-width: 768px){
+    .popup {
+        width: 90%;
+    }
+}

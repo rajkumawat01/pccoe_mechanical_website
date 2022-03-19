@@ -346,9 +346,6 @@
                         <!-- </marquee> -->
                     </ul>
                 </div>
-                <div class="text-center mt-3" id="alumini-feedback">
-                    <a href="#" class="alumini-feedback-btn">Alumini Feedback Form</a>
-                </div>
             </div>
             <div class="col-lg-9">
                 <div class="container-fluid p-3 mt-2 about-section bg-light rounded">
@@ -678,12 +675,8 @@
             <div class="col-md-4"></div>
             <div class="col-md-4">
                 <div class="text-white">
-                    <div class="mt-2">
+                    <div class="mt-5">
                         <h5>
-                            <div class="text-center p-2">
-                                <a href='https://bachelorthesiswritingservice.com/'>https://bachelorthesiswritingservice.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=51aaf4f6caf36a05d5ece16f08b99f42f17c2b9c'></script>
-                                <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/924404/t/13"></script>
-                            </div>
                             <p class="text-white text-center">
                                 Follow us
                             </p>
