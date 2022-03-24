@@ -288,7 +288,13 @@
               </div> 
             </div>
             </div>
-             
+             <div class="teamvideo  border-bottom  p-2 rounded" height = "fit-content" width = "100%" style = "display : flex; justify-content : space-around; align-items:center; border-radius: 50px;
+background: #eceffe;
+box-shadow:  6px 6px 11px #bebebe,
+             -6px -6px 11px #ffffff;">
+             <p class="font-weight-light h3">Team Maverick PCCOE Motorsport video</p>
+             <iframe width="40%" height="255" src="https://www.youtube.com/embed/AcUNwGo9pEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             </div>
         </div>
       </div>
     </section>
