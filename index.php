@@ -49,7 +49,7 @@
         <div class="d-flex flex-row-reverse crosspop pe-5">
         <button id="close" onclick="changeClass()">&times;</button></div>
         <!-- <h2><i>i-Mace</i> Second Call For Papers</h2> -->
-        <a href="https://drive.google.com/file/d/1RnzN7jg8tcsV2rKzcCMREIcW0oeAlD1P/view?usp=sharing" target="_blank">
+        <a href="vender\files\files\i-MACE_Second_Call_of_Papers.pdf" target="_blank">
             <img class="img-fluid p-1 bg-light" src="vender\img\popup\flyer2.jpg" alt="">
         </a>
         <!-- <a href="https://i-mace.pccoepune.com/" class = "last-button">Conference Website</a> -->
