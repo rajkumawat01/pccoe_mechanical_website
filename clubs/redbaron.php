@@ -299,6 +299,18 @@
       <div class="container-lg ">
         <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
+            <p class="fs-3 text-primary">Team Red Baron Season Video</p>
+          </div>
+          <div class="row my-3 justify-content-center">
+            <iframe src="https://drive.google.com/file/d/1jiZ95-3nTDXnhW1WwewfoTSf6vJLyCIM/preview" width="640" height="480" allow="autoplay"></iframe>
+          </div>
+      </div>
+    </section>
+    
+    <section class="p-5 pt-2">
+      <div class="container-lg ">
+        <div class="bg-light shadow rounded p-3">
+          <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">Events - 2021</p>
           </div>
           <div class="row my-3 justify-content-center">
@@ -347,7 +359,7 @@
       </div>
     </section>
 
-    <section class="p-5">
+    <section class="p-5 pt-2">
       <div class="container-lg ">
         <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">

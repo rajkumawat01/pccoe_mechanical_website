@@ -28,6 +28,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="../vender/css/navbar.css" rel="stylesheet" />
     <link href="../vender/css/style1.css" rel="stylesheet" />
+    <link href="css/button.css" rel="stylesheet" />
 
   </head>
   <body>
@@ -333,6 +334,101 @@
           <div class="row justify-content-center">
             <div class="col-lg-11 col-md-12 text-start">
               <div class="border-bottom border-1 border-primary mb-3">
+                <p class="fs-3 text-primary">INVICTUS 3.2 
+                  <span class="badge fw-light fs-6 rounded-pill" style="background-color: #7F98D6;">
+                    Season 2021-22
+                  </span>
+                </p>
+              </div>     
+            </div>
+          </div>
+          <div class="row justify-content-center">
+            
+            <div class="col-lg-7 col-md-12 text-start">
+      
+              <p class="my-4 text-dark">
+                With the ongoing pandemic all the dynamic events were cancelled. 
+                The team decided to counter this challenge by participating in 
+                another virtual competition whilst still targeting the dynamic 
+                event which was going to be held later that year.</p>
+
+              <p class="my-4 text-dark">
+                Invictus 3.2 was inspired by the previous year's design. It was 
+                made for <span class="fw-bold">Saur Urja Vehicle Championship (SUVC)</span> virtual season 5 
+                held from Oct 2021 to March 2022. SUVC is a national level solar 
+                electric vehicle competition organized by <span class="fw-bold">REFRANGIBLE SOCIETY OF 
+                TECHNOPHILE ENGINEERS (RSTE)</span>, that challenges engineering students 
+                to work on electric vehicles with utilization of sustainable energy.</p>
+              
+                <p class="my-4 text-dark">
+                Invictus 3.2 outperformed all the rival teams in the virtual 
+                event by showcasing the innovative design and amazing display of 
+                the features Invictus 3.2 holds.</p>
+                
+                <p class="my-4 text-dark">
+                We grabbed various awards in the event:</p>
+            </div>
+            <div class="col-lg-4 col-md-6 justify-content-center align-self-center">
+              <div class="card shadow-sm">
+                <img src="img/teamsolarium/ts_img22.jpg" class="card-img shadow-sm" alt="Image of faculty advisor of Team ambush">
+              </div>
+            </div>
+            <!-- <div class="col-lg-5 col-md-6 justify-content-center align-self-center">
+              <div class="card shadow-sm">
+                <img src="img/teamsolarium/ts_img8.png" class="card-img shadow-sm" alt="Image of faculty advisor of Team ambush">
+              </div>
+            </div> -->
+            <div class="col-lg-11 col-md-11 justify-content-center">
+              <!-- <p class="my-4 text-dark">
+                Unfortunately, due to the Corona Virus outbreak and the lockdown 
+                following soon in India, the ESVC 2020 was held virtually. Despite 
+                this set-back, we grabbed the following awards and stood 2nd in 
+                the entire country</p> -->
+              <p class="fw-bold">Achievements: <button class="col rounded btn-purple-moon">Overall Rank: 1st</button></p>
+
+              <div class="row">
+                <div class="col-lg-4 col-md-4 justify-content-center">
+                  <ul class="list-styled">
+                    <li class="py-2">1st in Engineering Design First</li>
+                    <li class="py-2">1st in Rulebook exam First</li>
+                    <li class="py-2">1st in Marketing Report</li>
+                  </ul>
+                </div>
+
+                <div class="col-lg-4 col-md-4 justify-content-center">
+                  <ul class="list-styled">
+                    <li class="py-2" >1st in Case Study Report</li>
+                    <li class="py-2" >1st in DVP and DFMEA Report</li>
+                    <li class="py-2" >1st in Winning Report</li>
+                  </ul>
+                </div>
+
+                <div class="col-lg-4 col-md-4 justify-content-center">
+                  <ul class="list-styled">
+                    <li class="py-2" >2nd in Business Plan</li>
+                    <li class="py-2" >3rd in Innovations Round</li>
+                    <li class="py-2" >1st in CFD and ETKA Report</li>
+                  </ul>
+                </div>
+              </div>
+              
+              <p class="my-4 text-dark">
+                With an almost clean sweep, the team was able to achieve 
+                the no. 1 position in the country and become national 
+                champions for the very first time!</p>
+            </div>
+          </div>
+             
+        </div>
+      </div>
+    </section>
+
+    <section class="p-3">
+      <div class="container-lg">
+        <div class="bg-light shadow rounded p-3">
+          <div class="row justify-content-center">
+            <div class="col-lg-11 col-md-12 text-start">
+              <div class="border-bottom border-1 border-primary mb-3">
                 <p class="fs-3 text-primary">INVICTUS 3.1 <span class="badge fw-light fs-6 rounded-pill" style="background-color: #7F98D6;">Season 2019-20</span></p>
               </div>     
             </div>
@@ -375,12 +471,12 @@
               <p class="fw-bold">Achievements:</p>
             
               <ul class="list-styled">
-                <li>1st in Pre-virtual</li>
-                <li>1st in team video</li>
-                <li>2nd in innovation presentation</li>
-                <li>2nd in autonomous concept</li>
-                <li>3rd in design presentation</li>
-                <li>Overall ranking: 2nd</li>
+                <li class="py-1" >1st in Pre-virtual</li>
+                <li class="py-1" >1st in team video</li>
+                <li class="py-1" >2nd in innovation presentation</li>
+                <li class="py-1" >2nd in autonomous concept</li>
+                <li class="py-1" >3rd in design presentation</li>
+                <li class="py-1" ><button class="col rounded btn-purple-moon">Overall Rank: 2nd</button></li>
               </ul>
             </div>
           </div>
@@ -436,12 +532,12 @@
               <p class="fw-bold">Achievements:</p>
             
               <ul class="list-styled">
-                <li>1st in Pre-virtual</li>
-                <li>1st to clear Technical inspection</li>
-                <li>1st in Hill climb</li>
-                <li>2nd in autocross</li>
-                <li>Best design award</li>
-                <li>Overall ranking: 4th</li>
+                <li class="py-1" >1st in Pre-virtual</li>
+                <li class="py-1" >1st to clear Technical inspection</li>
+                <li class="py-1" >1st in Hill climb</li>
+                <li class="py-1" >2nd in autocross</li>
+                <li class="py-1" >Best design award</li>
+                <li class="py-1" ><button class="col rounded btn-purple-moon">Overall Rank: 4th</button></li>
               </ul>
             </div>
           </div>
@@ -493,10 +589,10 @@
                 It comprised of several features that Dassault Systemes appreciated:</p>
             
               <ul class="list-styled">
-                <li>1+4 Configuration</li>
-                <li>Ergonomic design</li>
-                <li>Aesthetically pleasing</li>
-                <li>Real time data telemetry</li>
+                <li class="py-1" >1+4 Configuration</li>
+                <li class="py-1" >Ergonomic design</li>
+                <li class="py-1" >Aesthetically pleasing</li>
+                <li class="py-1" >Real time data telemetry</li>
               </ul>
 
               <p class="my-4 text-dark">
@@ -636,10 +732,10 @@
               <p class="fw-bold">Achievements:</p>
             
               <ul class="list-styled">
-                <li>1st in Pre-virtual</li>
-                <li>1st to clear Technical inspection</li>
-                <li>Best design award</li>
-                <li>Overall ranking: 7th</li>
+                <li class="py-1" >1st in Pre-virtual</li>
+                <li class="py-1" >1st to clear Technical inspection</li>
+                <li class="py-1" >Best design award</li>
+                <li class="py-1" ><button class="col rounded btn-purple-moon">Overall Rank: 7th</button></li>
               </ul>
             </div>
           </div>
@@ -701,12 +797,12 @@
               <p class="fw-bold">Achievements:</p>
             
               <ul class="list-styled">
-                <li>1st in Pre-virtual</li>
-                <li>1st to clear Technical inspection</li>
-                <li>1st in autocross</li>
-                <li>1st in acceleration</li>
-                <li>Best design award</li>
-                <li>Overall ranking: 3rd</li>
+                <li class="py-1" >1st in Pre-virtual</li>
+                <li class="py-1" >1st to clear Technical inspection</li>
+                <li class="py-1" >1st in autocross</li>
+                <li class="py-1" >1st in acceleration</li>
+                <li class="py-1" >Best design award</li>
+                <li class="py-1" ><button class="col rounded btn-purple-moon">Overall Rank: 3rd</button></li>
               </ul>
             </div>
           </div>
