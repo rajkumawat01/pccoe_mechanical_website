@@ -385,7 +385,7 @@
                         <tbody>
                           <tr>
                             <th scope="row">1</th>
-                            <td>N.R. Deore</td>
+                            <td>Dr. N.R. Deore</td>
                             <td>Experimental studies on propagation of premixed flame in diverging meso-scale channels</td>
                             <td>BCUD
 
@@ -396,7 +396,7 @@
                           </tr>
                           <tr>
                             <th scope="row">2</th>
-                            <td>C.L. Ladekar</td>
+                            <td>Dr. C.L. Ladekar</td>
                             <td>Experimental investigation for enhancing of latent heat energy storage using embedded heat pipe</td>
                             <td>BCUD
 
@@ -407,7 +407,7 @@
                           </tr>
                           <tr>
                             <th scope="row">3</th>
-                            <td>U G Potdar</td>
+                            <td>Dr. U G Potdar</td>
                             <td>Experimental investigation on lifted spray flame</td>
                             <td>BCUD
 
@@ -418,7 +418,7 @@
                           </tr>
                           <tr>
                             <th scope="row">4</th>
-                            <td>S.P. Salve</td>
+                            <td>Prof. S.P. Salve</td>
                             <td>Design and development of low cost solar air dryer using phase change material</td>
                             <td>S.P. Pune University BCUD</td>
                             <td>2016-18</td>
@@ -426,7 +426,7 @@
                           </tr>
                           <tr>
                             <th scope="row">5</th>
-                            <td>Anindita Roy</td>
+                            <td>Dr. Anindita Roy</td>
                             <td>Installation of 25 kWp Rooftop Solar PV system</td>
                             <td>BCUD QIP Grants</td>
                             <td>2016-18</td>
@@ -434,7 +434,7 @@
                           </tr>
                           <tr>
                             <th scope="row">6</th>
-                            <td>Anindita Roy</td>
+                            <td>Dr. Anindita Roy</td>
                             <td>Development of Solar Passenger Vehicle</td>
                             <td>DassaultSystemes Foundation</td>
                             <td>2017-18</td>
@@ -442,11 +442,38 @@
                           </tr>
                           <tr>
                             <th scope="row">7</th>
-                            <td>Anindita Roy, Narendra Deore</td>
+                            <td>Dr. Anindita Roy and Dr. Narendra Deore</td>
                             <td>Design & Development of Iiquid immersion cooling system for Battery Packs of high performance LEV’s</td>
                             <td>DassaultSystemes Foundation</td>
                             <td>2019-20</td>
                             <td>4,00,000</td>
+                          </tr>
+
+                          <tr>
+                            <th scope="row">8</th>
+                            <td>Prof. N A Mandhare</td>
+                            <td>Minimization of flow instabilities over Impeller eye of a Low head Mixed Flow Centrifugal Pump through design modification of lock nut</td>
+                            <td>ASPIRE-BCUD</td>
+                            <td>2019-20</td>
+                            <td>3,00,000</td>
+                          </tr>
+
+                          <tr>
+                            <th scope="row">9</th>
+                            <td>Dr. U G Potdar and Dr. N R Deore</td>
+                            <td>Design and development of miniature liquid fuel film combustor for thermoelectric power generation</td>
+                            <td>SERB-DST</td>
+                            <td>2021-24</td>
+                            <td>25,50,800</td>
+                          </tr>
+
+                          <tr>
+                            <th scope="row">10</th>
+                            <td>Mrs. G V Phadtare, Dr. U G Potdar, Dr. P A Deshmukh</td>
+                            <td>Utilization of green energy source for the development of solar system for biomedical application</td>
+                            <td>AICTE</td>
+                            <td>2022-24</td>
+                            <td>12,14,608</td>
                           </tr>
                         </tbody>
                       </table>
@@ -500,12 +527,39 @@
                              
                           </tr>
                           <tr>
-                            <th scope="row">3</th>
+                            <th scope="row">4</th>
                             <td>Siddharth Shandilya and Dr C L Ladekar</td>
                             <td>201621022091</td>
                             <td>Utilization of heat released during cooking with heat pipe embedded TES</td>
                           </tr>
-                          
+
+
+                          <tr>
+                            <th scope="row">5</th>
+                            <td>Anindita Roy and others</td>
+                            <td>202121043252</td>
+                            <td>LWM- Solar Cooker: Simple Low Cost Light Weight Modular Solar Cooker</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">6</th>
+                            <td>Anindita Roy and Students</td>
+                            <td>202121044931</td>
+                            <td>A low density Low Temperature Thermocline Thermal Energy Storage Tank</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">7</th>
+                            <td>Anindita Roy, N R Deore and Students</td>
+                            <td>202121053766</td>
+                            <td>Liquid Immersion Cooling System for Battery Packs of High-Performance Light Electric Vehicles</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">8</th>
+                            <td>Sonali K. Kale, Anindita Roy, 
+S. U. Bhandari, Sonali Patil, Anjali Sakukar, Padmakar Deshmukh
+</td>
+                            <td>202121056487</td>
+                            <td>A Smart Sustainable Portable Cold Storage</td>
+                          </tr>
                         </tbody>
                       </table>
                     </div>
@@ -521,7 +575,76 @@
                   </h2>
                   <div id="collapseFive1" class="accordion-collapse collapse" aria-labelledby="headingFive1" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <h3>Data Unavailable</h3>
+                    <table class="table">
+                        <thead>
+                          <tr>
+                            <th scope="col">Sr. No.</th>
+                            <th scope="col">Year</th>
+                            <th scope="col">Faculty Name</th>
+                            <th scope="col">Project Name</th>
+                            <th scope="col">Funds Received, Rs</th>
+                            <th scope="col">Industry Name</th>
+                            <th scope="col">Outcome</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <th scope="row">1</th>
+                            <td>2017</td>
+                            <td>Dr. Anindita Roy</td>
+                            <td>Installation of wind –photovoltaic hybrid project at Rajgurunagar, Peth for off grid lighting and water pumping applications</td>
+                            <td>Nil </td>
+                            <td>M/s. Greenerxia Corp., Pune</td>
+                            <td>Able to advise on correct system configuration, turbine selection for </td>
+                          </tr>
+
+                          <tr>
+                            <th scope="row">2</th>
+                            <td>2017</td>
+                            <td>Mr. Rajarshi Sen, Dr Anindita Roy</td>
+                            <td>Testing of Batteries</td>
+                            <td>16,500</td>
+                            <td>M/s R-Sun Industries, Pune, India</td>
+                            <td>Able to provide input on quality and capacity of Battery</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">3</th>
+                            <td>2018</td>
+                            <td>Mr. Rajarshi Sen, Dr Anindita Roy</td>
+                            <td>Development of O & M manual for off-grid solar power plants</td>
+                            <td>6,90,558</td>
+                            <td>M/s. CLEAN Development  & Customized Energy Solutions, India</td>
+                            <td>O&M Manual for off-grid solar power plant was developed  </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">4</th>
+                            <td>2019</td>
+                            <td>Mr. Rajarshi Sen, Dr Anindita Roy</td>
+                            <td>Development of Fast charging system for E-Rickshaw</td>
+                            <td>2,70,518 </td>
+                            <td>M/s. Chhabi Electricals, Mumbai & Customized Energy Solutions </td>
+                            <td>Commercial version of fast charger was developed for E-Rickshaw Applications</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">5</th>
+                            <td>2019</td>
+                            <td>Dr P A Deshmukh, Mrs. N A Mandhare</td>
+                            <td>Performance enhancement of Centrifugal pump through different coatings</td>
+                            <td>32,000 </td>
+                            <td>Henkel Adhesives Pvt Ltd.</td>
+                            <td>Investigated experimentally and numerically the effect of surface coatings on the loss minimization  </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">6</th>
+                            <td>2021</td>
+                            <td>Dr Padmakar Deshmukh, Dr Anindita Roy</td>
+                            <td>Validation of Diesel Generator Cooling System design</td>
+                            <td>10, 000 </td>
+                            <td>M/s/ Inventive Business Solutions Pvt Ltd. </td>
+                            <td>Able to validate cooling circuit design for diesel generator sets </td>
+                          </tr>
+                        </tbody>
+                      </table>
                     </div>
                   </div>
                 </div>

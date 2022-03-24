@@ -426,7 +426,77 @@
                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    DAta not provided
+                  <div class="row p-3">
+                      <p><strong>Batch wise Result</strong></p>
+                      <table class="table">
+                        <thead>
+                          <tr>
+                            <th scope="col">Year</th>
+                            <th scope="col">2016-18</th>
+                            <th scope="col">2017-19</th>
+                            <th scope="col">2018-20</th>
+                            <th scope="col">2019-21</th>
+                            
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <th scope="row">Appeared Students</th>
+                            <td>3</td>
+                            <td>18</td>
+                            <td>13</td>
+                            <td>6</td>
+                          </tr>   
+                          <tr>
+                            <th scope="row">All Clear Students</th>
+                            <td>3</td>
+                            <td>10</td>
+                            <td>13</td>
+                            <td>6</td>
+                          </tr> 
+                          <tr>
+                            <th scope="row">All Clear passed %</th>
+                            <td>100</td>
+                            <td>66.67</td>
+                            <td>100</td>
+                            <td>100</td>
+                          </tr> 
+                          <tr>
+                            <th scope="row">Quality Result (>=60%)</th>
+                            <td>100</td>
+                            <td>86.67</td>
+                            <td>100</td>
+                            <td>100</td>
+                          </tr> 
+                          <tr>
+                            <th scope="row">Distinction</th>
+                            <td>3</td>
+                            <td>10</td>
+                            <td>11</td>
+                            <td>4</td>
+                          </tr>   
+                          <tr>
+                            <th scope="row">First Class</th>
+                            <td>0</td>
+                            <td>3</td>
+                            <td>0</td>
+                            <td>0</td>
+                          </tr>                
+                        </tbody>
+                      </table>
+                    </div>
+                    <p><strong>Result Analysis</strong></p>
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                            <img src="img/heat_result1.png" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-sm-6">
+                            <img src="img/heat_result2.png" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-sm-6">
+                            <img src="img/heat_result3.png" class="img-fluid" alt="">
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
