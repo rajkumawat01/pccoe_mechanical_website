@@ -302,7 +302,7 @@
     </div>
     <div class="container-fluid pt-2 mt-3">
         <div class="row">
-            <div class="col-lg-3">
+            <div class="col-lg-3 justify-content-center">
                 <div class="section bg-light">
                     <div class="border-bottom border-1 border-primary pt-3">
                         <p class="fs-5 color-blue">&nbsp; <i class="fas fa-angle-double-right"></i> Student Corner</p>
@@ -357,7 +357,18 @@
                         <!-- </marquee> -->
                     </ul>
                 </div>
+                <div class="py-3 d-flex justify-content-center">
+                        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                        <div class="elfsight-app-51b414f7-fac4-469e-813a-d0c87704ebca"></div>
+                    
+                    <!-- <div class="col-4">
+                        <button type="button" class="btn btn-primary btn">Alumni Feedback</button>
+                    </div> -->
+                </div>
+
             </div>
+
+            
             <div class="col-lg-9">
                 <div class="container-fluid p-3 mt-2 about-section bg-light rounded">
                     <div class="border-bottom border-1 border-primary">

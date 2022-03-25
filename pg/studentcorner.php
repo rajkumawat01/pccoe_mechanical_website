@@ -398,7 +398,11 @@
                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                  <button type="button" class="btn btn-primary"><a href = "http://www.pccoepune.com/pdf/SY_M.TECH_21_22.pdf" style = "color : white; text-decoration : none" target = "_blank">M.E. Heat Power SY - Academic Calendar</a></button>
+                  <button type="button" class="btn btn-primary">
+                    <a href = "vender\files\syllabus\Booklet of M.Tech Heat Power Syllabus.pdf" style = "color : white; text-decoration : none" target = "_blank">
+                      M.E. Heat Power Syllabus
+                    </a>
+                  </button>
                   </div>
                 </div>
               </div>
@@ -406,13 +410,17 @@
                 <h2 class="accordion-header" id="headingThree">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    TimeTable
+                    Academic Calendar
                   </button>
                 </h2>
                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    Data not provided
+                  <button type="button" class="btn btn-primary">
+                    <a href = "vender\files\academic_calendar\SY M.Tech 2021-22.pdf" style = "color : white; text-decoration : none" target = "_blank">
+                      M.E. Heat Power SY - 2021-22  Academic Calendar
+                    </a>
+                  </button>
                   </div>
                 </div>
               </div>
