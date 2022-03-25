@@ -921,6 +921,204 @@
           </div>
         </div>
       </div>
+      <div class="accordion-item bg-light">
+        <h2 class="accordion-header" id="flush-heading6">
+          <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse7" aria-expanded="false" aria-controls="flush-collapse6">
+             <h6>G) Design for Sustainability:</h6> 
+          </button>
+        </h2>
+        <div id="flush-collapse7" class="accordion-collapse collapse" aria-labelledby="flush-heading6" data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+            <div class="row my-3">
+              <div class="col-lg-9 text-lg-start">
+                <p class="text-dark">This SIG was established in 2021 with a vision 
+                  to be a nationally recognized center of excellence in sustainability 
+                  engineering. We at Design for Sustainability SIG are committed to 
+                  achieve our vision by,</p>
+                <ul class="list-styled">
+                  <li class="py-1" >Imparting synchronized and effective outcome-based education through SIG specific transdisciplinary courses, workshops, and training programs.</li>
+                  <li class="py-1" >Preparing faculty members and students through skill-oriented courses, and project-based learning to excel in their profession.</li>
+                  <li class="py-1" >Creating and sharing knowledge and technologies with ethical values and social responsibilities.</li>
+                  <li class="py-1" >Promoting sustainable research to benefit the society.</li>
+                </ul>
+                
+              </div>
+              <div class="col-lg-3 col-md-6">
+                <p class="text-dark fw-bold text-center">Convener</p>
+                <center><img src="img\design_for_sustain\Rajkumar patil (2).jpg" class="img-thumbnail mb-3" alt="Mr-Sanjay-Matekar" style="width: 150px;">
+               </center><p class="text-dark fw-bold" style = "text-align : center;">Dr Rajkumar B. Patil</p>
+              </div>
+              <div class="col-lg-6">
+                <p class="text-dark"><span class="fw-bold fs-5">Research areas: </span></p>
+                <ul class="list-styled">
+                  <li class="py-1" >Reliability and safety</li>
+                  <li class="py-1" >Renewable and non-conventional energy</li>
+                  <li class="py-1" >Fault diagnosis and failure investigation of electronics</li>
+                  <li class="py-1" >Developments in agriculture</li>
+                  <li class="py-1" >Lithium-ion batteries</li>
+                  <li class="py-1" >Agriculture and food systems</li>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <p class="text-dark"><span class="fw-bold fs-5">General areas: </span></p>
+                <ul class="list-styled">
+                  <li class="py-1" >Happiness and well-being</li>
+                  <li class="py-1" >Education</li>
+                  <li class="py-1" >Health</li>
+                </ul>
+              </div>
+            </div>
+            <hr>
+            <h4 style="text-align: center;">Team Members</h4><br>
+            <div class="row">
+              <div class="col-lg-4" style="margin-top: 11px;">
+                <center>
+                <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-4">
+                    <div class="member-info">
+                    <div class="pic" style="width: 120px;"><img src="img\design_for_sustain\Rajkumar patil (2).jpg" class="img-fluid rounded-circle" alt=""></div><br>
+                    <h3 style="font-size: 16px; color: rgb(37, 103, 165);">Dr Rajkumar B. Patil</h3>
+                    <span>Convener</span>
+                    <hr style="color: rgb(37, 103, 165); height: 2px;">
+                      <span class="align-self-center text-muted">
+                        Email&nbsp;:&nbsp;
+                        <a href="mailto: rajkumar.patil@pccoepune.org" >
+                          rajkumar.patil@pccoepune.org
+                        </a>
+                      </span>
+                    </div>
+                </div>
+                </center>
+              </div>
+              <div class="col-lg-4" style="margin-top: 11px;">
+                <center>
+                <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-3">
+                    <div class="member-info">
+                    <div class="pic" style="width: 120px;"><img src="img\design_for_sustain\100KB.jpg" class="img-fluid rounded-circle" alt=""></div><br>
+                    <h3 style="font-size: 16px; color: rgb(37, 103, 165);">Dr. Amrita Francis</h3>
+                    <span>Secretary</span>
+                    <hr style="color: rgb(37, 103, 165); height: 2px;">
+                      <span class="align-self-center text-muted">
+                        Email&nbsp;:&nbsp;
+                        <a href="mailto: amrita.francis@pccoepune.org" >
+                          amrita.francis@pccoepune.org
+                        </a>
+                      </span>
+                    </div>
+                </div>
+                </center>
+              </div>
+              <div class="col-lg-4" style="margin-top: 11px;">
+                <center>
+                <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-4">
+                    <div class="member-info">
+                    <div class="pic" style="width: 120px;"><img src="img\design_for_sustain\ARoy-website (2).jpg" class="img-fluid rounded-circle" alt=""></div><br>
+                    <h3 style="font-size: 16px; color: rgb(37, 103, 165);">Dr. Anindita Roy</h3>
+                    <span>Member</span>
+                    <hr style="color: rgb(37, 103, 165); height: 2px;">
+                      <span class="align-self-center text-muted">
+                        Email&nbsp;:&nbsp;
+                        <a href="mailto: anindita.roy@pccoepune.org" >
+                          anindita.roy@pccoepune.org
+                        </a>
+                      </span>   
+                    </div>
+                </div>
+                </center>
+              </div>
+              <div class="col-lg-4" style="margin-top: 11px;">
+                <center>
+                <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-4">
+                    <div class="member-info">
+                    <div class="pic" style="width: 120px;"><img src="img\design_for_sustain\SheetalB.jpg" class="img-fluid rounded-circle" alt=""></div><br>
+                    <h3 style="font-size: 16px; color: rgb(37, 103, 165);">Dr. Sheetal U. Bhandari</h3>
+                    <span>Member</span>
+                    <hr style="color: rgb(37, 103, 165); height: 2px;">
+                      <span class="align-self-center text-muted">
+                        Email&nbsp;:&nbsp;
+                        <a href="mailto: sheetal.bhandari@pccoepune.org" >
+                          sheetal.bhandari@pccoepune.org
+                        </a>
+                      </span>
+                    </div>
+                </div>
+                </center>
+              </div>
+              <div class="col-lg-4" style="margin-top: 11px;">
+                <center>
+                <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-4">
+                    <div class="member-info">
+                    <div class="pic" style="width: 120px;"><img src="img\design_for_sustain\RSPimpalkar.jpg" class="img-fluid rounded-circle" alt=""></div><br>
+                    <h3 style="font-size: 16px; color: rgb(37, 103, 165);">Mrs. Rita S. Pimpalkar</h3>
+                    <span>Member</span>
+                    <hr style="color: rgb(37, 103, 165); height: 2px;">
+                      <span class="align-self-center text-muted">
+                        Email&nbsp;:&nbsp;
+                        <a href="mailto: rita.pimpalkar@pccoepune.org" >
+                          rita.pimpalkar@pccoepune.org
+                        </a>
+                      </span>                    
+                    </div>
+                </div>
+                </center>
+              </div>
+              <div class="col-lg-4" style="margin-top: 11px;">
+                <center>
+                <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-4">
+                    <div class="member-info">
+                    <div class="pic" style="width: 120px;"><img src="img\design_for_sustain\Dr. Abhay Lingayat.jpg" class="img-fluid rounded-circle" alt=""></div><br>
+                    <h3 style="font-size: 16px; color: rgb(37, 103, 165);">Dr. Abhay B. Lingayat</h3>
+                    <span>Member</span>
+                    <hr style="color: rgb(37, 103, 165); height: 2px;">
+                      <span class="align-self-center text-muted">
+                        Email&nbsp;:&nbsp;
+                        <a href="mailto: abhay.lingayat@pccoepune.org" >
+                          abhay.lingayat@pccoepune.org
+                        </a>
+                      </span>
+                    </div>
+                </div>
+                </center>
+              </div>
+              <div class="col-lg-4" style="margin-top: 11px;">
+                <center>
+                <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-4">
+                    <div class="member-info">
+                    <div class="pic" style="width: 120px;"><img src="img\design_for_sustain\avinash.JPG" class="img-fluid rounded-circle" alt=""></div><br>
+                    <h3 style="font-size: 16px; color: rgb(37, 103, 165);">Dr. Avinash V. Borgaonkar</h3>
+                    <span>Member</span>
+                    <hr style="color: rgb(37, 103, 165); height: 2px;">
+                      <span class="align-self-center text-muted">
+                        Email&nbsp;:&nbsp;
+                        <a href="mailto: avinash.borgaonkar@pccoepune.org" >
+                          avinash.borgaonkar@pccoepune.org
+                        </a>
+                      </span>
+                    </div>
+                </div>
+                </center>
+              </div>
+              <div class="col-lg-4" style="margin-top: 11px;">
+                <center>
+                <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-4">
+                    <div class="member-info">
+                    <div class="pic" style="width: 120px;"><img src="img\design_for_sustain\Jaya Photo.jpeg" class="img-fluid rounded-circle" alt=""></div><br>
+                    <h3 style="font-size: 16px; color: rgb(37, 103, 165);">Dr. Jaya Goyal</h3>
+                    <span>Member</span>
+                    <hr style="color: rgb(37, 103, 165); height: 2px;">
+                      <span class="align-self-center text-muted">
+                        Email&nbsp;:&nbsp;
+                        <a href="mailto: jaya.goyal@pccoepune.org" >
+                          jaya.goyal@pccoepune.org
+                        </a>
+                      </span>
+                    </div>
+                </div>
+                </center>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 </div>
 </div>
