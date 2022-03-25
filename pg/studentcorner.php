@@ -191,7 +191,7 @@
   <div class="container-fluid p-3">
     <div class="row">
       <div class="col-lg-3">
-        <div class="section bg-light">
+        <div class="section mt-4 bg-light">
           <div class="border-bottom border-1 border-primary pt-3">
             <p class="fs-5 color-blue">&nbsp; <i class="fas fa-angle-double-right"></i>&nbsp;Heat Power Engineering</p>
           </div>
@@ -209,7 +209,7 @@
               <li>Research and Development</li>
             </a>
             <a href="placement.php">
-              <li>Placement</li>
+              <li>Internship and Placement</li>
             </a>
             <!-- <a href="">
                             <li>Result Analysis</li>       ?
@@ -231,7 +231,7 @@
         </div>
       </div>
       <div class="col-lg-9">
-        <div class="container p-3 mt-5 pb-5 vision-mision bg-light">
+        <div class="container p-3 mt-4 pb-5 vision-mision bg-light">
           <div class="container-fluid title">Student Corner</div>
           <div class="container-fluid content-panel">
             <div class="accordion" id="accordionExample">
