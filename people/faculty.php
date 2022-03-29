@@ -710,21 +710,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
-                        <div class="col-sm-3 p-2 text-center align-self-center container-fluid"> <img src="../faculty photo/SSMore.jpg " class="card-img" style="width: 150px;" alt="Faculty Image"> <br/> <button class="website btn btn-primary mt-3"> <a href=" https://sites.google.com/pccoepune.org/swapnilmore/home " target="_blank"><span class="text-white">Personal Website</span></a> </button>                            </div>
-                        <div class="col-sm-9 align-self-center pt-3">
-                            <h4>Mr. S. S. More </h4>
-                            <div>
-                                <dl class="row"> <dt class="col-sm-3 col-4">Designation</dt>
-                                    <dd class="col-sm-9 col-8"> Assistant Professor </dd> <dt class="col-sm-3 col-4">Qualification</dt>
-                                    <dd class="col-sm-9 col-8"> M. Tech.(Design Engineering), B.E.(Mechanical Engineering) </dd> <dt class="col-sm-3 col-4">Experience</dt>
-                                    <dd class="col-sm-9 col-8"> 9+ Years</dd> <dt class="col-sm-3 col-4">Area of interest</dt>
-                                    <dd class="col-sm-9 col-8">
-                                        <p>Design engineering </p>
-                                    </dd> <span class="align-self-center text-muted"> Email&nbsp;:&nbsp;<a href="mailto: swapnil.more061@gmail.com " >swapnil.more061@gmail.com</a> | Contact&nbsp;:&nbsp;<a href="tel: +918552987911 " > 8552987911 </a> <div class="profile mt-1"><!-- <button class="btn btn-primary btn-sm "> <a href = "#" target="_blank ">Google Scholar Profile</a> </button> --><!-- <button class="btn btn-sm btn-primary "> <a href = "#" target="_blank ">Scopus Profile</a> </button> --> </div></span>                                    </dl>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
                         <div class="col-sm-3 p-2 text-center align-self-center container-fluid"> <img src="../faculty photo/SSShinde.jpg " class="card-img" style="width: 150px;" alt="Faculty Image"> <br/> <button class="website btn btn-primary mt-3"> <a href=" https://sites.google.com/pccoepune.org/shriyashshinde/home " target="_blank"><span class="text-white">Personal Website</span></a> </button>                            </div>
                         <div class="col-sm-9 align-self-center pt-3">
@@ -1047,7 +1033,7 @@
                 <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
                     <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
                         <img src="../faculty photo/jaya goyal.jpg" class="card-img" style="width: 150px;" alt="Faculty Image"> 
-                        <br/> 
+                        <br/> <button class="website btn btn-primary mt-3"> <a href="https://jayasingh2006.wixsite.com/dr--jaya-goyal" target="_blank"><span class="text-white">Personal Website</span></a> </button>
                     </div>
                     <div class="col-sm-9 align-self-center pt-3">
                         <h4>Dr. Jaya Goyal</h4>
