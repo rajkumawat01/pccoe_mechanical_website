@@ -578,6 +578,9 @@
                                     <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();"
                                         onmouseout="this.start();">
                                         <ul class="section-list section-list-sm">
+                                            <a target="_blank" href="research/student_achivements.php">
+                                                <li><small>Achievement in <b>GATE 2022</b> from Mechanical Engineering Department.</small></li>
+                                            </a>
                                             <a target="_blank" href="vender/files/notices/tkr_award2.jpeg">
                                                 <li><small><b>Team Kratos Racing</b> (TKR) electric of PCCoE Pune secured 
                                                     <b>Overall First Rank</b> in Formula Bharat electric 2022 competition 
@@ -606,7 +609,7 @@
                                                         practicing as Energy Auditor under <b>Energy Conservation Act
                                                             2001.</b></small></li>
                                             </a>
-                                            <a target="_blank" href="vender/files/notices/army_student.png">
+                                            <!-- <a target="_blank" href="vender/files/notices/army_student.png">
                                                 <li><small>One of our Mechanical Engineering 2019 passout student <b>Mr.
                                                             Jaydeep Mahajan</b> Passed UPSC CDS exam Joined <b> Indian
                                                             Military Academy, Dehradun</b> in Jan 2020 Commissioned into
@@ -625,7 +628,7 @@
                                                         <b>Rs. 25,50,800/- from DST-SERB</b> for the project entitled
                                                         <b>"Design & development of miniature liquid fuel film comustor
                                                             for thermoelectric power generation".</b></small></li>
-                                            </a>
+                                            </a> -->
                                         </ul>
                                     </marquee>
                                     <p class="read-more"><a href="news_section/highlight_achivement.php">read more</a>

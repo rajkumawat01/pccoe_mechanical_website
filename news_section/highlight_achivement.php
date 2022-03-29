@@ -204,6 +204,12 @@
             <ul class="fa-ul">
                 <li>
                     <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span>
+                    <a target="_blank" href="../research/student_achivements.php">
+                    Achievement in <b>GATE 2022</b> from Mechanical Engineering Department.
+                    </a>
+                </li>
+                <li>
+                    <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span>
                     <a target="_blank" href="../vender/files/notices/tkr_award2.jpeg">
                     <b>Team Kratos Racing</b> (TKR) electric of PCCoE Pune secured 
                         <b>Overall First Rank</b> in Formula Bharat electric 2022 

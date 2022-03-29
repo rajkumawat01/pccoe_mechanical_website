@@ -195,7 +195,146 @@
     </div>
     <div class="bg-light p-4">
       <div class="border-bottom border-1 border-primary mb-3">
-        <p class="fs-3 text-primary">C ) 2018-19</p>
+        <p class="fs-3 text-primary">A ) 2021-22</p>
+      </div>
+    
+    <div class="row my-3 p-3">
+      <ul class="list-styled">
+        <h4>Outstanding Achievement in GATE 2022</h4>
+        <div class="row">
+          <div class="col-sm-6 mt-4 text-center">
+            <img src="img/Prathamesh.png" alt="">
+            <h6 class="p-0 m-0">Name: Prathamesh Pawar</h6>
+            <p class="p-0 m-0">Paper Code:- Mechanical Engineering (ME)</p>
+            <p class="p-0 m-0 text-rigth">GATE Score:- 70.07</p>
+            <h6 class="p-0 m-0">All India Rank (AIR):- 182</h6>
+          </div>
+          <div class="col-sm-6 mt-4 text-center">
+            <img src="img/nikhil.png" alt="">
+            <h6 class="p-0 m-0">Name: Nikhil Somwanshi</h6>
+            <p class="p-0 m-0">Paper Code:- Mechanical Engineering (ME)</p>
+            <p class="p-0 m-0 text-rigth">GATE Score:- 64.1</p>
+            <h6 class="p-0 m-0">All India Rank (AIR):- 522</h6>
+            
+            <p class="p-0 m-0 mt-3">Paper Code:-Engineering Sciences (XE)</p>
+            <p class="p-0 m-0 text-rigth">GATE Score:- 70.67</p>
+            <h6 class="p-0 m-0">All India Rank (AIR):- 155</h6>
+          </div>
+        </div>
+          <br>
+          <h5>List of GATE 2022 Qualifying Candidates</h5>
+          <table class="table table-hover">
+            <thead class="table-primary">
+              <tr>
+                <th colspan="4" class="text-center">GATE 2022 Mechanical Engineering (ME)</th>
+              </tr>
+              <tr>
+                <th scope="col">Sr. No</th>
+                <th scope="col">Name of Student</th>
+                <th scope="col">Year</th>
+                <th scope="col">Score</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1.</td>
+                <td>Prathamesh Pralhad Pawar</td>
+                <td>BE</td>
+                <td>70.07</td>
+              </tr>
+              <tr>
+                <td>2.</td>
+                <td>Nikhil Chhotu Somwanshi</td>
+                <td>BE</td>
+                <td>64.1</td>
+              </tr>
+              <tr>
+                <td>3.</td>
+                <td>Rohan Rajendra Sawant</td>
+                <td>BE</td>
+                <td>51.56</td>
+              </tr>
+              <tr>
+                <td>4.</td>
+                <td>Animesh Wani</td>
+                <td>BE</td>
+                <td>51.21</td>
+              </tr>
+              <tr>
+                <td>5.</td>
+                <td>Atharva Pawar</td>
+                <td>BE</td>
+                <td>70.07</td>
+              </tr>
+              <tr>
+                <td>6.</td>
+                <td>Manish Ashok Kolhe </td>
+                <td>TE</td>
+                <td>39.7</td>
+              </tr>
+              <tr>
+                <td>7.</td>
+                <td>Harshal Harischandra Meher</td>
+                <td>BE</td>
+                <td>30.15</td>
+              </tr>
+              <tr>
+                <td>8.</td>
+                <td>Shivam Hake </td>
+                <td>TE</td>
+                <td>28.86</td>
+              </tr>
+              <tr>
+                <td>9.</td>
+                <td>Saurabh Vijay Nimbolkar</td>
+                <td>TE</td>
+                <td>21.82</td>
+              </tr>
+            </tbody>
+          </table> 
+          
+
+          <table class="table table-hover">
+            <thead class="table-primary">
+              <tr>
+                <th colspan="4" class="text-center">GATE 2022 Engineering Sciences (XE)</th>
+              </tr>
+              <tr>
+                <th scope="col">Sr. No</th>
+                <th scope="col">Name of Student</th>
+                <th scope="col">Year</th>
+                <th scope="col">Score</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1.</td>
+                <td>Nikhil Chhotu Somwanshi</td>
+                <td>BE</td>
+                <td>70.67</td>
+              </tr>
+              <tr>
+                <td>2.</td>
+                <td>Animesh Wani</td>
+                <td>BE</td>
+                <td>47</td>
+              </tr>
+              <tr>
+                <td>3.</td>
+                <td>Manish Ashok Kolhe</td>
+                <td>TE</td>
+                <td>43</td>
+              </tr>
+            </tbody>
+          </table>
+      </ul>
+    </div>
+    </div>
+
+
+    <div class="bg-light p-4">
+      <div class="border-bottom border-1 border-primary mb-3">
+        <p class="fs-3 text-primary">B ) 2018-19</p>
       </div>
     
     <div class="row my-3 p-3">
