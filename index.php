@@ -249,7 +249,7 @@
             <div class="carousel-item active">
                 <img src="vender/img/slider/img-0.jpg" class="d-block w-100" alt="..." />
                 <div class="carousel-caption pb-0">
-                    <span class="title">1/9</span>
+                    <span class="title">1/8</span>
                 </div>
             </div>
             <div class="carousel-item">
@@ -261,7 +261,7 @@
             <div class="carousel-item">
                 <img src="vender/img/slider/kratos.png" class="d-block w-100" alt="..." />
                 <div class="carousel-caption pb-0">
-                    <span class="title">3/9</span>
+                    <span class="title">3/8</span>
                 </div>
             </div>
             <div class="carousel-item">
@@ -273,31 +273,25 @@
             <div class="carousel-item">
                 <img src="vender/img/slider/img-1.jpg" class="d-block w-100" alt="..." />
                 <div class="carousel-caption pb-0">
-                    <span class="title">5/9</span>
+                    <span class="title">5/8</span>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="vender/img/slider/img-2.jpg" class="d-block w-100" alt="..." />
                 <div class="carousel-caption pb-0">
-                    <span class="title">6/9</span>
+                    <span class="title">6/8</span>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="vender/img/slider/i-1.jpg" class="d-block w-100" alt="..." />
                 <div class="carousel-caption pb-0">
-                    <span class="title">7/9</span>
+                    <span class="title">7/8</span>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="vender/img/slider/i-2.jpg" class="d-block w-100" alt="..." />
                 <div class="carousel-caption pb-0">
-                    <span class="title">8/9</span>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="vender/img/slider/kratos.jpg" class="d-block w-100" alt="..." />
-                <div class="carousel-caption pb-0">
-                    <span class="title">9/9</span>
+                    <span class="title">8/8</span>
                 </div>
             </div>
         </div>
