@@ -200,7 +200,100 @@
   <div class="container p-2 university-rank">
     <div class="container-fluid content-panel">
       <div class="row justify-content-center pt-3">
-      
+
+
+      <h6 class="head1"><span>AY2020-21</span></h6>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/khedekar-hanumant.jpg"></div>
+            <h6 class="h6 text-center">Khedekar Shreyash Hanumant</h6>
+            <p class="description">
+              All Branches Rank 10<br>
+              Branchwise Rank 05
+            </p>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/wakchaure-akshay.jpg"></div>
+            <h6 class="h6 text-center">Wakchaure Akshay Bhimashankar</h6>
+            <p class="description">Branchwise Rank 08</p><br>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/sabale-bhausaheb.jpg"></div>
+            <h6 class="h6 text-center">Sabale Nilesh Bhausaheb</h6>
+            <p class="description">Branchwise Rank 09</p><br>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/nimgire-balasaheb.jpg"></div>
+            <h6 class="h6 text-center">Nimgire Balasaheb Shivaji</h6>
+            <p class="description">Branchwise Rank 10</p><br>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+
+
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/mujawar-azhar.jpg"></div>
+            <h6 class="h6 text-center">Mujawar Azhar Shakil</h6>
+            <p class="description">
+            All Branch Rank 04 <br>
+            Branchwise Rank 01
+            </p>
+            <p class="batch">~ Second Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/shelar-prajwal.jpg"></div>
+            <h6 class="h6 text-center">Shelar Prajwal Dattatray</h6>
+            <p class="description">Branch wise Rank 03</p><br>
+            <p class="batch">~ Second Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/yadav-preeti.jpg"></div>
+            <h6 class="h6 text-center">Yadav Preeti Jagdish</h6>
+            <p class="description">Branchwise Rank 08</p><br>
+            <p class="batch">~ Second Year</p>
+          </div>
+        </div>
+        <hr class="invisible">
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/mukadam-barkat.jpg"></div>
+            <h6 class="h6 text-center">Mukadam Barkat Firoj</h6>
+            <p class="description">Branchwise Rank 09</p>
+            <p class="batch">~ Second Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/chaskar-omkar.jpg"></div>
+            <h6 class="h6 text-center">Chaskar Omkar Anil</h6>
+            <p class="description">Branchwise Rank 10</p>
+            <p class="batch">~ Second Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/waghmare-pratik.jpg"></div>
+            <h6 class="h6 text-center">Waghmare Pratik Dattatray</h6>
+            <p class="description">All Branches Rank 10</p>
+            <p class="batch">~ Second Year</p>
+          </div>
+        </div>
+
+
       <!-- ----------------- year 2020 ---------------------------------------------------------------- -->
       
       <h6 class="head1"><span>April-May 2020 Sem II <small class="font-monospace">(May 2020 Sem II)</small></span></h6>
