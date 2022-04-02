@@ -228,7 +228,14 @@
       </div>
     </div>
   </div>
-
+  
+  <div class="container">
+      <div class="row border-5 border-dark shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
+      <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none"
+                      href="https://drive.google.com/file/d/11ub9sEl4G61jGyeh-AlRQcGdhPDyCiJq/view?usp=sharing">Class Teacher and class assitant list</a>
+      </div>
+  </div>
 
   <div class="mt-5 bg-light container p-3">
     <ul class="nav nav-tabs nav-fill bg-light pb-1" id="myTab" role="tablist">
@@ -338,7 +345,7 @@
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
                       class="text-decoration-none"
-                      href="../vender/files/activity_calendar/Academic Calendar of the Institute for S.Y.B.Tech.pdf">Event
+                      href="https://drive.google.com/file/d/1jvT1UGbdhi_0AuQxi0ikTHXtd2jLPogJ/view?usp=sharing">Event
                       Calendar of the Institute for SY. </a></li>
                 </ul>
               </div>
@@ -468,7 +475,7 @@
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
                       class="text-decoration-none"
-                      href="../vender/files/activity_calendar/Event Calendar of UG TE & BE (1).pdf">Activity Calendar of
+                      href="https://drive.google.com/file/d/1musjFgAnb8EYkRN_IipGu5vsgZqwy95-/view?usp=sharing">Activity Calendar of
                       the Institute for TE.</a></li>
                 </ul>
               </div>
@@ -603,7 +610,7 @@
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
                       class="text-decoration-none"
-                      href="../vender/files/activity_calendar/Event Calendar of UG TE & BE (1).pdf">Activity Calendar of
+                      href="https://drive.google.com/file/d/1musjFgAnb8EYkRN_IipGu5vsgZqwy95-/view?usp=sharing">Activity Calendar of
                       the Institute for BE.</a></li>
                 </ul>
               </div>
