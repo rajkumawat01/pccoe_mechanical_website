@@ -229,13 +229,7 @@
     </div>
   </div>
   
-  <div class="container">
-      <div class="row border-5 border-dark shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
-      <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none"
-                      href="https://drive.google.com/file/d/11ub9sEl4G61jGyeh-AlRQcGdhPDyCiJq/view?usp=sharing">Class Teacher and class assitant list</a>
-      </div>
-  </div>
+ 
 
   <div class="mt-5 bg-light container p-3">
     <ul class="nav nav-tabs nav-fill bg-light pb-1" id="myTab" role="tablist">
@@ -307,22 +301,22 @@
                     <div class="row justify-content-around">
                       <div class="col-lg-3 col-sm-6">
                         <div class="item  text-center">
-                          <div class="text-center"><img src="../vender/img/staff/NJSurwade.jpg"></div>
-                          <h6 class="h6 text-center">Mr. N. J. Surwade</h6>
+                          <div class="text-center"><img src="../vender/img/staff/ASKashid.jpg"></div>
+                          <h6 class="h6 text-center">Mr. A. S. Kashid</h6>
                           <p class="batch">~ SY Division-A</p>
                         </div>
                       </div>
                       <div class="col-lg-3 col-sm-6">
                         <div class="item    text-center">
-                          <div class="text-center"><img src="../vender/img/staff/UIShaikh.jpg"></div>
-                          <h6 class="h6 text-center">Mr. U. I. Shaikh</h6>
+                          <div class="text-center"><img src="../faculty%20photo/Neeta_A_Mandhare.jpg"></div>
+                          <h6 class="h6 text-center">Mrs. N. A. Mandhare</h6>
                           <p class="batch">~ SY Division-B</p>
                         </div>
                       </div>
                       <div class="col-lg-3 col-sm-6">
                         <div class="item    text-center">
-                          <div class="text-center"><img src="../vender/img/staff/PJTipole.jpg"></div>
-                          <h6 class="h6 text-center">Dr. P. J. Tipole</h6>
+                          <div class="text-center"><img src="../faculty%20photo/Dr.%20Abhay%20Lingayat.jpg"></div>
+                          <h6 class="h6 text-center">Mr. A. B. Lingayat</h6>
                           <p class="batch">~ SY Division-C</p>
                         </div>
                       </div>
@@ -437,22 +431,22 @@
                     <div class="row justify-content-around">
                       <div class="col-lg-3 col-sm-6">
                         <div class="item  text-center">
-                          <div class="text-center"><img src="../vender/img/staff/ASKashid.jpg"></div>
-                          <h6 class="h6 text-center">Mr. A. S. Kashid</h6>
+                          <div class="text-center"><img src="../faculty%20photo/Dr.%20Amrita%20Francis.jpg"></div>
+                          <h6 class="h6 text-center">Dr. Amruta Francis</h6>
                           <p class="batch">~ TE Division-A</p>
                         </div>
                       </div>
                       <div class="col-lg-3 col-sm-6">
                         <div class="item    text-center">
-                          <div class="text-center"><img src="../vender/img/staff/RAGujar.webp"></div>
-                          <h6 class="h6 text-center">Mr. R. A. Gujar</h6>
+                          <div class="text-center"><img src="../faculty%20photo/Gaffar_G._Momin.jpg"></div>
+                          <h6 class="h6 text-center">Mr. G. G. Momin</h6>
                           <p class="batch">~ TE Division-B</p>
                         </div>
                       </div>
                       <div class="col-lg-3 col-sm-6">
                         <div class="item    text-center">
-                          <div class="text-center"><img src="../vender/img/staff/RBPatil.JPG"></div>
-                          <h6 class="h6 text-center">Dr. R. B. Patil</h6>
+                          <div class="text-center"><img src="../faculty%20photo/Dr.%20Avinash%20Borgaonkar.JPG"></div>
+                          <h6 class="h6 text-center">Dr. A. V. Borgaonkar</h6>
                           <p class="batch">~ TE Division-C</p>
                         </div>
                       </div>
@@ -572,22 +566,22 @@
                     <div class="row justify-content-around">
                       <div class="col-lg-3 col-sm-6">
                         <div class="item  text-center">
-                          <div class="text-center"><img src="../faculty photo/SVPatil.jpg"></div>
-                          <h6 class="h6 text-center">Mrs. S. V. Patil</h6>
+                          <div class="text-center"><img src="../faculty photo/ssmule.jpg" alt = "Mr. S. S. Mule Photo"></div>
+                          <h6 class="h6 text-center">Mr. S. S. Mule</h6>
                           <p class="batch">~ BE Division-A</p>
                         </div>
                       </div>
                       <div class="col-lg-3 col-sm-6">
                         <div class="item    text-center">
-                          <div class="text-center"><img src="../vender/img/staff/NVGaikwad.jpg"></div>
-                          <h6 class="h6 text-center">Mr. N. V. Gaikwad</h6>
+                          <div class="text-center"><img src="../faculty%20photo/SRWankhede.jpg"></div>
+                          <h6 class="h6 text-center">Mr. S. R. Wankhede</h6>
                           <p class="batch">~ BE Division-B</p>
                         </div>
                       </div>
                       <div class="col-lg-3 col-sm-6">
                         <div class="item    text-center">
-                          <div class="text-center"><img src="../vender/img/staff/Gaffar_G._Momin.jpg"></div>
-                          <h6 class="h6 text-center">Mr. G. G. Momin</h6>
+                          <div class="text-center"><img src="../faculty%20photo/Gauri_Phadtare.jpeg"></div>
+                          <h6 class="h6 text-center">Mrs. G. V. Phadtare</h6>
                           <p class="batch">~ BE Division-C</p>
                         </div>
                       </div>
