@@ -327,6 +327,46 @@
             </div>
           </div>
           <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingctdsy">
+              <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapsectdsy" aria-expanded="false" aria-controls="flush-collapsectdsy">
+                <h6>Class Assistants</h6>
+              </button>
+            </h2>
+            <div id="flush-collapsectdsy" class="accordion-collapse collapse" aria-labelledby="flush-headingctdsy"
+              data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">
+                <div class="container p-2 mt-1 class-teacher">
+                  <div class="container-fluid content-panel">
+                    <div class="row justify-content-around">
+                      <div class="col-lg-3 col-sm-6">
+                        <div class="item  text-center">
+                          <div class="text-center"><img src="../people/Staff Photo/AbhiPhuge.jpg"></div>
+                          <h6 class="h6 text-center">Mr. A.K. Phuge</h6>
+                          <p class="batch">~ SY Division-A</p>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-sm-6">
+                        <div class="item    text-center">
+                          <div class="text-center"><img src="../people/Staff Photo/Rahul Gogawale 2.jpg"></div>
+                          <h6 class="h6 text-center">Mr. R.S. Gogawale</h6>
+                          <p class="batch">~ SY Division-B</p>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-sm-6">
+                        <div class="item    text-center">
+                          <div class="text-center"><img src="../people/Staff Photo/Shantaram Nalawade.jpg"></div>
+                          <h6 class="h6 text-center">Mr. S.D. Narawade</h6>
+                          <p class="batch">~ SY Division-C</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingac">
               <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse"
                 data-bs-target="#flush-collapseac" aria-expanded="false" aria-controls="flush-collapseac">
@@ -337,9 +377,13 @@
               data-bs-parent="#accordionFlushExample">
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
-                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                <!-- <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
                       class="text-decoration-none"
                       href="https://drive.google.com/file/d/1jvT1UGbdhi_0AuQxi0ikTHXtd2jLPogJ/view?usp=sharing">Event
+                      Calendar of the Institute for SY. </a></li> -->
+                      <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none"
+                      href="../vender/files/activity_calendar/Event Calender S Y B Tech.pdf">Event
                       Calendar of the Institute for SY. </a></li>
                 </ul>
               </div>
@@ -457,6 +501,46 @@
             </div>
           </div>
           <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingctdte">
+              <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapsectdte" aria-expanded="false" aria-controls="flush-collapsectdte">
+                <h6>Class Assistants</h6>
+              </button>
+            </h2>
+            <div id="flush-collapsectdte" class="accordion-collapse collapse" aria-labelledby="flush-headingctdte"
+              data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">
+                <div class="container p-2 mt-1 class-teacher">
+                  <div class="container-fluid content-panel">
+                    <div class="row justify-content-around">
+                      <div class="col-lg-3 col-sm-6">
+                        <div class="item  text-center">
+                          <div class="text-center"><img src="../people/Staff Photo/Ashish Kumkar.jpg"></div>
+                          <h6 class="h6 text-center">Mr. A.R. Kumkar</h6>
+                          <p class="batch">~ SY Division-A</p>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-sm-6">
+                        <div class="item    text-center">
+                          <div class="text-center"><img src="../people/Staff Photo/Santosh Shinde 3.jpg"></div>
+                          <h6 class="h6 text-center">Mr. S.A. Shinde</h6>
+                          <p class="batch">~ SY Division-B</p>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-sm-6">
+                        <div class="item    text-center">
+                          <div class="text-center"><img src="../people/Staff Photo/Kanifnath Mhaske.jpg"></div>
+                          <h6 class="h6 text-center">Mr. K.T. Mhaske</h6>
+                          <p class="batch">~ SY Division-C</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
             <h2 class="accordion-header" id="flush-heading1ac">
               <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse"
                 data-bs-target="#flush-collapse1ac" aria-expanded="false" aria-controls="flush-collapse1ac">
@@ -467,9 +551,14 @@
               data-bs-parent="#accordionFlushExample2">
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
-                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                  <!-- <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
                       class="text-decoration-none"
                       href="https://drive.google.com/file/d/1musjFgAnb8EYkRN_IipGu5vsgZqwy95-/view?usp=sharing">Activity Calendar of
+                      the Institute for TE.</a></li> -->
+
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none"
+                      href="../vender/files/activity_calendar/Event calender UG TE &BE SEM ll.pdf">Activity Calendar of
                       the Institute for TE.</a></li>
                 </ul>
               </div>
@@ -566,7 +655,7 @@
                     <div class="row justify-content-around">
                       <div class="col-lg-3 col-sm-6">
                         <div class="item  text-center">
-                          <div class="text-center"><img src="../faculty photo/ssmule.jpg" alt = "Mr. S. S. Mule Photo"></div>
+                          <div class="text-center"><img src="../faculty photo//mu" alt = "Mr. S. S. Mule Photo"></div>
                           <h6 class="h6 text-center">Mr. S. S. Mule</h6>
                           <p class="batch">~ BE Division-A</p>
                         </div>
@@ -592,6 +681,46 @@
             </div>
           </div>
           <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingctdbe">
+              <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapsectdbe" aria-expanded="false" aria-controls="flush-collapsectdbe">
+                <h6>Class Assistants</h6>
+              </button>
+            </h2>
+            <div id="flush-collapsectdbe" class="accordion-collapse collapse" aria-labelledby="flush-headingctdbe"
+              data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">
+                <div class="container p-2 mt-1 class-teacher">
+                  <div class="container-fluid content-panel">
+                    <div class="row justify-content-around">
+                      <div class="col-lg-3 col-sm-6">
+                        <div class="item  text-center">
+                          <div class="text-center"><img src="../people/Staff Photo/Vinod Kalbhor.jpeg"></div>
+                          <h6 class="h6 text-center">Mr. Vinod Kalbhor</h6>
+                          <p class="batch">~ SY Division-A</p>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-sm-6">
+                        <div class="item    text-center">
+                          <div class="text-center"><img src="../people/Staff Photo/daundkar.jpg"></div>
+                          <h6 class="h6 text-center">Mr. B.D. Daundkar</h6>
+                          <p class="batch">~ SY Division-B</p>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-sm-6">
+                        <div class="item    text-center">
+                          <div class="text-center"><img src="../people/Staff Photo/Mahesh More.jpg"></div>
+                          <h6 class="h6 text-center">Mr. M.S. More</h6>
+                          <p class="batch">~ SY Division-C</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
             <h2 class="accordion-header" id="flush-heading2ac">
               <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse"
                 data-bs-target="#flush-collapse2ac" aria-expanded="false" aria-controls="flush-collapse2ac">
@@ -602,9 +731,13 @@
               data-bs-parent="#accordionFlushExample3">
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
-                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                  <!-- <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
                       class="text-decoration-none"
                       href="https://drive.google.com/file/d/1musjFgAnb8EYkRN_IipGu5vsgZqwy95-/view?usp=sharing">Activity Calendar of
+                      the Institute for BE.</a></li> -->
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none"
+                      href="../vender/files/activity_calendar/Event calender UG TE &BE SEM ll.pdf">Activity Calendar of
                       the Institute for BE.</a></li>
                 </ul>
               </div>
